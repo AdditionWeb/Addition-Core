@@ -3,7 +3,7 @@
 Plugin Name: Addition Core
 GitHub Plugin URI: AdditionWeb/Addition-Core
 Description: Sets up additional widgets and tweaks for AdditionWeb partners
-Version:     1.0.0
+Version:     1.0.1
 Author:      AdditionWeb
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
